@@ -4,6 +4,9 @@ Mise en relation de conducteurs et de passagers pour des trajets urbains et inte
 (Cotonou, Porto-Novo, Abomey-Calavi, Ouidah…), afin de réduire les frais de transport.
 Projet n°5 du cahier des charges « 9 projets fictifs ».
 
+**🔗 Démo en ligne :** https://mes-apps.wuaze.com/covoitbenin/ — **📲 Installer l’application** (mobile, tablette, ordinateur) : https://mes-apps.wuaze.com/covoitbenin/#/installer
+
+
 ![Accueil](docs/accueil.png)
 ![Recherche de trajets avec carte](docs/recherche.png)
 ![Espace conducteur](docs/espace-conducteur.png)
